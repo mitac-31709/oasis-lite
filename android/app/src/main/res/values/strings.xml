@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oasis Lite</string>
+    <string name="url_hint">Data Oasis の SSO URL</string>
+    <string name="open">開く</string>
+    <string name="default_open">既定</string>
+    <string name="need_location">位置情報の許可が必要です</string>
+    <string name="default_open_hint">「リンクを追加」から shop.povo.jp を選んでください</string>
+    <string name="default_open_unsupported">この端末では設定画面を開けません</string>
+    <string name="only_shop_url">shop.povo.jp の Data Oasis URL だけ使えます</string>
+    <string name="opened_in_browser">Data Oasis 以外のためブラウザで開きました</string>
+    <string name="default_open_dialog_title">リンクの既定アプリ</string>
+    <string name="default_open_dialog_message">Data Oasis（shop.povo.jp/dashboard）をこのアプリで開くと、SSO URL のコピーが減ります。設定しますか？</string>
+    <string name="default_open_dialog_ok">設定する</string>
+    <string name="default_open_dialog_later">後で</string>
+</resources>

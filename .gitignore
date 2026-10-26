@@ -1,0 +1,14 @@
+﻿# Build / IDE
+out/
+*.apk
+*.aab
+.DS_Store
+
+# Android (also covered under android/)
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/*.iml
+android/captures/
